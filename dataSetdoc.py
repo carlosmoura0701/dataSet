@@ -26,7 +26,7 @@ import altair as alt
 
 import pandas as pd 
 
-data = pd.read_csv(r'C:\Users\889612123\Documents\GitHub\coding\dataSet\csv\dataBase.csv', sep=';')
+data = pd.read_csv('dataSet\csv\dataBase.csv', sep=';')
 
 print('\n')
 
